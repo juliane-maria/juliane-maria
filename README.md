@@ -2,9 +2,7 @@ Oii,pessoas! Eu sou a Juliane 👋
 
 -🧠 graduanda em sistemas de informação
 
--🎓estudando: Angular
 
--🎈idade: 22 anos
 
  <div>
   <a href="https://github.com/juliane-maria">
