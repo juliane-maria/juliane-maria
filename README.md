@@ -1,6 +1,6 @@
 Oii,pessoas! Eu sou a Juliane 👋
 
--🧠 graduanda em sistemas de informação
+
 
 
 
