@@ -1,5 +1,5 @@
 Oii,pessoas! Eu sou a Juliane 👋
-Estou cursando o 7º período de Sistemas de informação.
+Estou cursando o 7º período de Sistemas de informação. ##
 Tenho conhecimentos em JavaScript,Node.js,Angular e atualmente estou estudando Flutter.
 
 
