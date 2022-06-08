@@ -1,7 +1,7 @@
 #  Olá !
 </br>-Estou cursando o 7º período de Sistemas de informação. 
 </br>-Tenho aproximadamente 1 ano de experiência como desenvolvedora.
-</br>-Atualmente estou estudando Flutter.
+</br>-Atualmente estou procurando oportunidade em desenvolvimento mobile com Flutter.
 
 #
  <div>
