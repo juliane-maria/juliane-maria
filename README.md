@@ -1,40 +1,36 @@
-#  Olá !
-</br>-Estou cursando o 7º período de Sistemas de informação. 
-</br>-Tenho aproximadamente 1 ano de experiência como desenvolvedora.
-</br>-Atualmente estou procurando oportunidade em desenvolvimento mobile com Flutter.
+#  <h2> Olá,Hello,Salut! </h2> 
+<img align='right' src="https://s4.aconvert.com/convert/p3r68-cdx67/a4v05-7v13h.jpg" width="300">
 
-#
- <div>
-  <a href="https://github.com/juliane-maria">
-  <img width ="1000px" height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliane-maria&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
 
-# Entre em contato comigo:
+<p><em>Software Enginner at <a href="https://www.cest.edu.br/">Santa Terezinha College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://secom.ma.gov.br/">Secom</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ 
+ 
+</em></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliane-maria)](https://www.linkedin.com/in/juliane-maria/)&nbsp;[![Gmail Badge](https://img.shields.io/badge/-julianesousa758@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianesusa758@gmail.com)](mailto:julianesousa758@gmail.com)
+[![Linkedin: julianemaria](https://img.shields.io/badge/-julianemaria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliane-maria/)](https://www.linkedin.com/in/juliane-maria/)
+[![GitHub JulianeMaria](https://img.shields.io/github/followers/juliane-maria?label=follow&style=social)](https://github.com/juliane-maria)
+[![Gmail Badge](https://img.shields.io/badge/-julianemaria-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianesusa758@gmail.com)](mailto:julianesousa758@gmail.com)
+
+
 
 
  
-  # Tecnologias:
-<p align="center">
-
-
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-<img height="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
- <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-</p>
  
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+```javascript
+const juma = {
+  pronouns: "she" | "her",
+  code: [Dart, PHP, HTML, CSS, Javascript],
+  tools: [Flutter, Node,Styled-Components, Docker],
+  architecture: ["microservices", "design system pattern"],
+  hobbies: ["take care of plants", "sing","ride a bike"],
+}
+```
+
+
+
   
-  
-    
-</div>
-  
-  
-  #
+
+
+ 
+
