@@ -21,7 +21,7 @@
 const juma = {
   pronouns: "she" | "her",
   code: [Dart, PHP, HTML, CSS, Javascript],
-  tools: [Flutter, Node,Styled-Components, Docker],
+  tools: [Flutter,Node,Docker,Angular,CodeIgniter],
   architecture: ["microservices", "design system pattern"],
   hobbies: ["take care of plants", "sing","ride a bike"],
 }
