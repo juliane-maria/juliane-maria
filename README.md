@@ -1,8 +1,8 @@
 #  <h2> Olá,Hello,Salut! </h2> 
-<img align='right' src="https://s4.aconvert.com/convert/p3r68-cdx67/a4v05-7v13h.jpg" width="300">
+<img align='right' src="https://s4.aconvert.com/convert/p3r68-cdx67/az8vv-e808k.jpg" width="300">
 
 
-<p><em>Software Enginner at <a href="https://www.cest.edu.br/">Santa Terezinha College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://secom.ma.gov.br/">Secom</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Software Analist at <a href="https://www.cest.edu.br/">Santa Terezinha College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer at <a href="https://secom.ma.gov.br/">Secom</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  
  
 </em></p>
