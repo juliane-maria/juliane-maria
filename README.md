@@ -20,10 +20,10 @@
 ```javascript
 const juma = {
   pronouns: "she" | "her",
-  code: [Dart, PHP, HTML, CSS, Javascript],
+  code: [Dart, Php, Html, Css, Javascript,Kotlin],
   tools: [Flutter,Node,Docker,Angular,CodeIgniter],
-  architecture: ["microservices", "design system pattern"],
-  hobbies: ["take care of plants", "sing","ride a bike"],
+  architecture: ["MVC","MVVM" "Clean Arch", "Clean Dart"],
+  hobbies: ["take care of plants", "sing","cook",],
 }
 ```
 
